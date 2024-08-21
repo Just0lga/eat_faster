@@ -1,0 +1,31 @@
+name: eat_faster
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  responsive_builder: ^0.7.1
+  google_fonts: ^6.2.1
+  provider: ^6.1.2
+  collection: ^1.18.0
+  flutter_credit_card: ^4.0.1
+  intl: ^0.19.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/images/Et/
+    - lib/images/Hamburger/
+    - lib/images/Icecekler/
+    - lib/images/Pizza/
+    - lib/images/Tatli/
+    - lib/images/Tavuk/
+
