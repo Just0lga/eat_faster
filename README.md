@@ -1,16 +1,4 @@
 # eat_faster
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Launch Your Story in Black Bright Green Cool Corporate Style](https://github.com/user-attachments/assets/6b688cd0-9b2e-4264-a8cb-25227fb802f9)
+![Adsız tasarım](https://github.com/user-attachments/assets/b5625112-099f-4329-8af1-5098f06ffaeb)
